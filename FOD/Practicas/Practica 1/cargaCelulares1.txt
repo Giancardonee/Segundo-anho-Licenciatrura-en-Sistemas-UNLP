@@ -1,6 +1,0 @@
-1 1200.5 Xiaomi
-20 30 unaDescripcion
-primerCelu
-2 400.5 Iphone
-10 5 unaDescripcion
-segundoCelu

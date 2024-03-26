@@ -1,5 +1,0 @@
-|| Nombre: gianluca cardone || Nro empleado: 1 || Edad: 67 || Dni: 40090020
-|| Nombre: emiliano martinez || Nro empleado: 2 || Edad: 90 || Dni: 78399098
-|| Nombre: leo messi || Nro empleado: 3 || Edad: 43 || Dni: 77766655
-|| Nombre: leonel scaloni || Nro empleado: 100 || Edad: 89 || Dni: 52009873
-|| Nombre: juan foyth || Nro empleado: 10 || Edad: 55 || Dni: 55666776

@@ -1,0 +1,4 @@
+1 1200.5 Romantica
+AmorInfinito
+2 8700.0 generoNovela2
+nombreNovela2

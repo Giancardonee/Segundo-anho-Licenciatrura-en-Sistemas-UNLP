@@ -66,10 +66,10 @@ var
 begin
 	reset(archD); 
 	reset(archM); 
+	 read(archM,rMae); 
 	leer(archD,rDet);
 	while (rDet.codigoAlumno <> valorAlto) do 
 		begin
-			read(archM,rMae); 
 			finalesAprobados:=0; cursadasAprobadas:=0;
 			alumnoActual:= rDet.codigoAlumno;
 			{procesamos todos los registros del alumno actual} 
